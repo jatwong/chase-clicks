@@ -37,6 +37,23 @@
   }
 }
 
-.spacing {
-  margin-bottom: 3rem;
+.count {
+  font-size: larger;
+  margin-bottom: 1.5rem;
+}
+
+.clickMe {
+  padding: 10px;
+  font-size: large;
+  border-radius: 10px;
+  border: none;
+}
+
+.clickMe:hover {
+  font-size: medium;
+}
+
+.errorMsg {
+  color: rgb(167, 61, 61);
+  font-size: small;
 }
